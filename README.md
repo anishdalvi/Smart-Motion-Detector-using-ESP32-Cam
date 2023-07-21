@@ -1,3 +1,11 @@
+## Demo
+
+https://github.com/anishdalvi/Smart-Motion-Detector-using-ESP32-Cam/assets/70633140/ab73ea1d-e8d5-4fcc-9ce6-62e9ba7fca48
+
+#### Demo Image
+
+<img width='350px' src="https://github.com/anishdalvi/Smart-Motion-Detector-using-ESP32-Cam/assets/70633140/3b6e6a13-7633-4c69-9e9f-06fc6ef50d73" />
+
 ## Materials:-
 
 1.ESP32 Camera Module <br>
